@@ -42,7 +42,7 @@ class signup: AppCompatActivity() {
         val pass=EdtPass.text.toString()
         val confirmpass=EdtConPaa.text.toString()
         if (email.isBlank() || pass.isBlank() || confirmpass.isBlank()){
-            Toast.makeText(this,"Please Email and password cant be blank",Toast.LENGTH_LONG).show()
+            Toast.makeText(this,"Please Email and password can`t be blank",Toast.LENGTH_LONG).show()
             return
         }  else if (pass != confirmpass){
             Toast.makeText(this,"Password do not match",Toast.LENGTH_LONG).show()

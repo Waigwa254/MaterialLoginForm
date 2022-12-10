@@ -27,7 +27,7 @@ class ResetPassword : AppCompatActivity() {
          val sPassword=  etpassword.text.toString()
             auth.sendPasswordResetEmail(sPassword)
                 .addOnSuccessListener {
-                    Toast.makeText(this,"please check your Email",Toast.LENGTH_SHORT).show()
+                    Toast.makeText(this,"please check your email",Toast.LENGTH_SHORT).show()
 
                 }
                 .addOnFailureListener {
