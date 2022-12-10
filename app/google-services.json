@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "965923026423",
+    "project_id": "materialloginform",
+    "storage_bucket": "materialloginform.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965923026423:android:aa703b971a8c025393aaf2",
+        "android_client_info": {
+          "package_name": "com.example.materialloginform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965923026423-j89fnmspsdo8e7dj878d3125hd0dooca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzYwgECu2822u25lRzAxnHQNfGgqIeXlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965923026423-j89fnmspsdo8e7dj878d3125hd0dooca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
